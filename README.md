@@ -1,6 +1,6 @@
 # The code that our team often uses.（PyTorch implementation mainly）
 
-This code repository is provided for the member of sml group led by Prof.Tongliang Liu. It includes the following terms: 
+This code repository is provided for the member of TML group led by Prof.Tongliang Liu. It includes the following terms: 
 - The reproductions of some papers, covered aspects are noisy-label learning, deep compression, kernel mean estimation and others. I will update it according to the projects I have already finished at all times.
 - The PyTorch implementation of the model structures used in experiments.
 - Some frequently used code, you can use them for data preprocessing, plot, model evaluation...
